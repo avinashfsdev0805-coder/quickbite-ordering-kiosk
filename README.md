@@ -1,4 +1,3 @@
-# quickbite-ordering-kiosk
 # Food Ordering Platform
 
 A full-stack food ordering and restaurant management system designed for a single restaurant. The platform allows customers to place orders through a self-service kiosk and enables restaurant staff to manage incoming orders and food preparation.
